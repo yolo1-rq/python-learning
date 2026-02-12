@@ -8,3 +8,5 @@ print(full_name.lower())
 print(f"hello,thank,{full_name.title()}")  
 message = f"hello,thank,{full_name.title()}"
 print(message)
+message = f"hello,world,{full_name}"
+print(message)
